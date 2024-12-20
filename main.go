@@ -152,6 +152,7 @@ func main() {
 	println(row_radius)
 	println(column_radius)
 	println(column_x_delta)
+	println(switch_plate)
 
 	sys.RenderOne(switch_plate)
 
